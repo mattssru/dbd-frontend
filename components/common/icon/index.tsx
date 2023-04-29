@@ -1,0 +1,9 @@
+export { default as IconSearch } from "./IconSearch";
+export { default as IconUser } from "./IconUser";
+export { default as IconShare } from "./IconShare";
+export { default as IconLove } from "./IconLove";
+export { default as IconBack } from "./IconBack";
+export { default as IconEdit } from "./IconEdit";
+export { default as IconDelete } from "./IconDelete";
+export { default as IconProduct } from "./IconProduct";
+export { default as IconMenu } from "./IconMenu";
